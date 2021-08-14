@@ -40,6 +40,7 @@ library
   hs-source-dirs:      src
   exposed-modules:     Data.Stack
                      , Stg.ExamplePrograms
+                     , Stg.RunForPager
                      , Stg.Language
                      , Stg.Language.Prettyprint
                      , Stg.Machine

@@ -5,22 +5,22 @@
 
 packages:
 - completed:
-    hackage: tasty-html-0.4.1.2@sha256:7c8be5359940fcbd0228b9a1f5dc9a1113a9a5e03dc9b9ae018eb17f870aef13,1241
+    hackage: tasty-1.4.0.3@sha256:1c9f86d3a5e6a9e1c63de5b20a70f4103d392f85a23e77a1b401fcff36104c5b,2640
     pantry-tree:
-      size: 608
-      sha256: b0bccc20c9438f1353dedf7efc70716e58e6fc7e741a47617e9a6c1be59f0a1d
+      size: 1873
+      sha256: 72846721a18ebc40c232c66d621ad3229e9270c430f06377c88a748568b22112
   original:
-    hackage: tasty-html-0.4.1.2
+    hackage: tasty-1.4.0.3
 - completed:
-    hackage: tasty-rerun-1.1.12@sha256:76bb9056900ea630bfcddf62ae6ada6c37679043b9432c64e41c531d6b01a6c9,3084
+    hackage: tasty-html-0.4.1.4@sha256:18ed7c6fb79e38348e3512d90ef4b5a852a39b1d3a3a2328ac5c3f23647a6f82,1234
     pantry-tree:
-      size: 284
-      sha256: 1ba87234cb4e139145302faba8d55659f9b0f528becb5e83f755593aa548d1eb
+      size: 609
+      sha256: 776b04064269bd758e9806810d34fcd1a9952e36dfe36192bf45efa93c1f5f0a
   original:
-    hackage: tasty-rerun-1.1.12
+    hackage: tasty-html-0.4.1.4
 snapshots:
 - completed:
-    size: 523884
-    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/14/4.yaml
-    sha256: 16f24be248b42c9e16d59db84378836b1e7c239448a041cae46d32daffa45a8b
-  original: lts-14.4
+    size: 563100
+    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/17/0.yaml
+    sha256: e93a85871577ea3423d5f3454b2b6bd37c2c2123c79faf511dfb64f5b49a9f8b
+  original: lts-17.0
